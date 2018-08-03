@@ -14,3 +14,8 @@ The following code can be used to reproduced the analyses of the paper "Reinforc
 10. *predictive_checks.R*: program to perform the predictive checks in the Supplementary Material, Appendix B.
 11. *prior_simulations.R*: program to perform the analyses in the Supplementary Material, Appendix A.
 12. *prior_standard_dev.R*: program to generate Figure 2 of Section 7.
+13. *melanoma_param_gender.R*: program to fit the multinomial-Weibull model of Section 6.
+14. *simulations_exp_n100.R*: program to run the simulations of Section 7.5 with n=100.
+15. *simulations_exp_n500.R*: program to run the simulations of Section 7.5 with n=500.
+16. *simulations_exp_n1000.R*: program to run the simulations of Section 7.5 with n=1000.
+17. *plot_sim_results.R*: program to generate Figure 4 of Section 7.
